@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커
 <a href="http://www.yes24.com/Product/Goods/102099414">
 <img src="http://image.kyobobook.co.kr/images/book/xlarge/743/x9791165215743.jpg" width="400">
@@ -116,3 +117,6 @@
 
 ## 관련 문서 
 -  📜 [왜 쿠버네티스는 systemd로 cgroup을 관리하려고 할까요?](https://www.slideshare.net/JoHoon1/systemd-cgroup)
+=======
+# GitOps
+>>>>>>> b8574332ce0b9954371f1613e4dd50647a1529bf
